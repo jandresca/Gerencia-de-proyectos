@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  /*Body de las páginas Boostrap*/
+  .body1 {
+    background-color: #aee2ec;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  .body2 {
+    background-color: rgb(40, 38, 44);
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  .bodyjs{
+    background-color: rgb(245, 203, 14);
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  /*Footer de las páginas*/
+  .footer1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  /*Banner de las página de Boostrap*/
+  .banner1 {
+    background-image: url(../img/bootstrapj.png);
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(27, 19, 94);
+  }
+  .banner1 h1 {
+    text-align: right;
+    font-size: 80px;
+    padding: 150px 50px;
+  }
+  
+  /*Banner de las página de Lógica*/
+  .banner2 {
+    background-image: url(../img/logicaj.png);
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Color de la letra */
+    color: rgb(255, 255, 255);
+  }
+  .banner2 h1 {
+    text-align: right;
+    font-size: 80px;
+    padding: 150px 50px;
+  }
+  p {
+    font-size: 20px;
+  }
+  
+  .accordion-body p {
+    font-size: 16px;
+    text-align: justify;
+  }
+  .display-5 {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  @media screen and (max-width: 800px) {
+    .banner1 h1 {
+      text-align: right;
+      font-size: 50px;
+      padding: 150px 50px;
+    }
+    .banner2 h1 {
+      text-align: right;
+      font-size: 50px;
+      padding: 150px 50px;
+    }
+  }
+  
+
+
+  /**/
+  .bannerCuestionario{
+    /* por favor cambiar la ruta de la imagen de la página */
+    background-image: url(../img/cuestionario.gif);
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Color de la letra */
+    color: rgb(27, 19, 94);
+  }
+  
+  .center{
+    text-align: center;
+  }
+  
+  .imagen{
+    width: 37%;
+  }
+  .nav-link{
+    color: aliceblue;
+  }
+  
+  ul{
+    background-color: black;
+  
+  }
+  h5{
+    background-color: white;
+    color: black;
+  }
+  
+  p{
+    color: black;
+    text-align: justify;
+    font-size: 20px;
+  }
+  .card-padding{
+    padding-left: 3%;
+      padding-top: 3%;
+      padding-bottom: 3%;
+      padding-right: 4%;
+      border-left: antiquewhite 12px solid;
+      border-right: antiquewhite 12px solid;
+  }
+  
+  .red{
+    color: red;
+  }
+  
+  .borde-abajo{
+    border: none;
+     border-bottom: gray 1px dashed;
+  }
+  
+  .logo {
+    position: absolute;
+    left: 4%;
+    height: 60px;
+    top: 2%;
+  }
+  
+  
+  
+

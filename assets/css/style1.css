@@ -1,0 +1,22 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(245, 203, 14);
+    color: black;
+}
+
+.col-lg-5  img{
+    height: 250px;
+    width: 500px;
+    padding: 0;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px 100px 25px 100px;
+}
+
+.col-lg-7 h5{
+    text-align: justify;
+}

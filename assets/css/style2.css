@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    /* por favor cambiar el color a su gusto */
+    background-color:#aee2ec;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  
+  .banner {
+    /* por favor cambiar la ruta de la imagen de la página */
+    background-image: url(../img/Gerencia-Proyectos-Tecnologicos.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Color de la letra */
+    color: rgb(0, 0, 0);
+  }
+  .banner h1 {
+    text-align: right;
+    
+    font-size: 80px;
+    padding: 150px 50px;
+  }
+
+  .footer1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .nav-link{
+    color: aliceblue;
+  }
+  
+  ul{
+    background-color: black;
+  
+  }
+  h5{
+    background-color: white;
+    color: black;
+  }
+  
+  p{
+    color: black;
+    text-align: justify;
+    font-size: 20px;
+  }
+  
+  .logo {
+    position: absolute;
+    left: 4%;
+    height: 60px;
+    top: 2%;
+  }
+  
+  
+  
+  
+  @media screen and (max-width: 800px) {
+    .banner h1 {
+      text-align: right;
+      font-size: 50px;
+      padding: 150px 50px;
+    }
+  }
+  .containeer {
+    color: white;
+  }
+  
+  

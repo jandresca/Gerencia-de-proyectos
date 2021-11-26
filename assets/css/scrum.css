@@ -1,0 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* por favor cambiar el color a su gusto */
+  background-color: #aee2ec;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+/*Menú*/
+.nav-link{
+  color: aliceblue;
+}
+
+ul{
+  background-color: black;
+
+}
+h5{
+  background-color: white;
+  color: black;
+}
+
+p{
+  color: black;
+  text-align: justify;
+  font-size: 20px;
+}
+
+.logo {
+  position: absolute;
+  left: 4%;
+  height: 60px;
+  top: 2%;
+}
+
+
+
+
+
+.bannerScrum{
+  /* por favor cambiar la ruta de la imagen de la página */
+  background-image: url(../img/Gerencia-Proyectos-Tecnologicos.jpg);
+  height: 550px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* Color de la letra */
+  color: rgb(27, 19, 94);
+}
+.bannerScrum h1 {
+  text-align: right;
+  font-size: 80px;
+  padding: 150px 84px;
+}
+.center{
+  text-align: center;
+}
+
+.imagen{
+  width: 37%;
+}
+
+
+.bannerinicio{
+  /* por favor cambiar la ruta de la imagen de la página */
+  background-image: url(../img/principal2.gif);
+  height: 792px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* Color de la letra */
+  color: rgb(27, 19, 94);
+}
+.bannerinicio h1 {
+  text-align: right;
+  font-size: 80px;
+  padding: 150px 84px;
+}
+.center{
+  text-align: center;
+}
+
+.imagen{
+  width: 37%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**/
+
+
+.bannerCuestionario{
+  /* por favor cambiar la ruta de la imagen de la página */
+  background-image: url(../img/cuestionario.gif);
+  height: 550px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* Color de la letra */
+  color: rgb(27, 19, 94);
+}
+
+.center{
+  text-align: center;
+}
+
+.imagen{
+  width: 37%;
+}
+
+@media screen and (max-width: 800px) {
+  .bannerScrum h1 {
+    text-align: right;
+    font-size: 50px;
+    padding: 150px 50px;
+  }
+}
+
+.card-padding{
+  padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 4%;
+    border-left: antiquewhite 12px solid;
+    border-right: antiquewhite 12px solid;
+
+
+
+}
+
+.red{
+  color: red;
+}
+
+.borde-abajo{
+  border: none;
+    border-bottom: gray 1px dashed;
+}
+.footer1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.containeer {
+  color: white;
+}

@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+
+}
+
+body{
+   
+    text-align: center;
+}
+
+.nav-link{
+    color: aliceblue;
+}
+
+ul{
+    background-color: black;
+
+}
+h5{
+    background-color: white;
+    color: black;
+}
+
+p{
+    color: black;
+    text-align: justify;
+    font-size: 20px;
+}
+
+
+
+.containeer{
+    padding-right: 5%;
+    padding-left: 5%;
+    
+
+}
+.containeer2{
+    padding-right: 2%;
+    padding-left: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+    border: solid blanchedalmond 4px;
+    border-radius: 23px;
+    
+
+}
+.containeer2 h3{
+    color: white;
+}
+.container {
+    color: white;
+}
+
+.logo{
+    position: absolute;
+    left: 4%;
+    height: 60px;
+    top: 2%;
+
+}
